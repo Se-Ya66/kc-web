@@ -27,12 +27,11 @@
             <transition name="about-txt">
               <div v-show="visible2" class="visible2">
                 <p class="translate">私たちについて</p>
-                <h2 class="title">デジタル領域の制作､広告運用､マーケティング
-                全ての機能が連結されたソリューションを提供します</h2>
-                <p class="explan">monomodeはデジタル領域を専業とし、
-                インターネット広告、デジタルマーケティング等の広告代理店業や
-                WEBサイトや映像を中心とした、あらゆるクリエイティブサービス
-                自社開発のプロダクトを展開しています。</p>
+                <h2 class="title">What is Lorem Ipsum?</h2>
+                <p class="explan">
+                  Lorem Ipsum is simply dummy 
+                  text of the printing and typesetting industry. 
+                </p>
                   <nuxt-link to="/about" class="link">
                     <div class="button pat1">
                       <span class="one">About Us</span>
@@ -66,10 +65,9 @@
               <transition name="business-txt">
                 <div class="b-visible" v-show="bvisible2">
                   <p class="translate">事業紹介</p>
-                  <p class="explan">monomodeはデジタル領域を専業とし、
-                  インターネット広告、デジタルマーケティング等の広告代理店業や
-                  WEBサイトや映像を中心とした、あらゆるクリエイティブサービス
-                  自社開発のプロダクトを展開しています。</p>
+                  <p class="explan">Lorem Ipsum is simply dummy 
+                  text of the printing and typesetting industry. 
+                  </p>
                 </div>
               </transition>
             </div>
@@ -83,7 +81,8 @@
                       <div class="card-txt">
                         <p class="work-title">ブライダル・法人営業</p>
                         <div class="line"></div>
-                        <p class="work-description">WEBサイトや映像を中心とした、あらゆるクリエイティブサービス自社開発のプロダクトを展開しています。</p>
+                        <p class="work-description">Lorem Ipsum is simply dummy 
+                  text of the printing and typesetting industry. </p>
                         <nuxt-link to="/business" class="link">
                           <div class="links">
                             <p class="work-link">
@@ -105,7 +104,8 @@
                       <div class="card-txt">
                         <p class="work-title">ECサイト</p>
                         <div class="line"></div>
-                        <p class="work-description">WEBサイトや映像を中心とした、あらゆるクリエイティブサービス自社開発のプロダクトを展開しています。</p>
+                        <p class="work-description">Lorem Ipsum is simply dummy 
+                  text of the printing and typesetting industry. </p>
                         <div class="links">
                           <a href="https://www.kandc1893.com/"
                           class="work-link">

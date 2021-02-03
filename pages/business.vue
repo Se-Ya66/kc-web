@@ -70,12 +70,12 @@ export default {
             contents:[
                 {
                     title: 'ブライダル',
-                    text:'monomodeはデジタル領域を専業とし、インターネット広告、デジタルマーケティング等の広告代理店業やWEBサイトや映像を中心とした、あらゆるクリエイティブサービス自社開発のプロダクトを展開しています。',
+                    text:'Lorem Ipsum is simply dummytext of the printing and typesetting industry. ',
                     img:require('../static/work.jpg')
                 },
                 {
                     title: '法人営業',
-                    text:'monomodeはデジタル領域を専業とし、インターネット広告、デジタルマーケティング等の広告代理店業やWEBサイトや映像を中心とした、あらゆるクリエイティブサービス自社開発のプロダクトを展開しています。',
+                    text:'Lorem Ipsum is simply dummytext of the printing and typesetting industry. ',
                     img:require('../static/work.jpg')
                 },
             ],

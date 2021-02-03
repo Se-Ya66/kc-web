@@ -28,10 +28,8 @@
                                     <h1 class="heading">Vision</h1>
                                     <h2 class="title">社会に必要とされる企業</h2>
                                     <p class="explan">
-                                        福岡市内および近郊エリアの収益物件や事業用・
-                                        居住用不動産に関する情報と深い知見をもち、
-                                        不動産業のプロフェッショナルとして、弊社社名（ミライアークエステート）のとおり、
-                                        お客様と不動産の未来へ貢献する架け橋となることを目指します！
+                                        Lorem Ipsum is simply dummy 
+                                        text of the printing and typesetting industry. 
                                     </p>
                                 </v-col>
                             </transition>
@@ -55,10 +53,8 @@
                                         <h1 class="heading">Mission</h1>
                                         <h2 class="title">社会に必要とされる企業</h2>
                                         <p class="explan2">
-                                            福岡市内および近郊エリアの収益物件や事業用・
-                                            居住用不動産に関する情報と深い知見をもち、
-                                            不動産業のプロフェッショナルとして、弊社社名（ミライアークエステート）のとおり、
-                                            お客様と不動産の未来へ貢献する架け橋となることを目指します！
+                                            Lorem Ipsum is simply dummy 
+                                            text of the printing and typesetting industry. 
                                         </p>
                                     </v-col>
                                 </transition>
@@ -87,10 +83,8 @@
                                         <h1 class="heading">Mission</h1>
                                         <h2 class="title">社会に必要とされる企業</h2>
                                         <p class="explan2">
-                                            福岡市内および近郊エリアの収益物件や事業用・
-                                            居住用不動産に関する情報と深い知見をもち、
-                                            不動産業のプロフェッショナルとして、弊社社名（ミライアークエステート）のとおり、
-                                            お客様と不動産の未来へ貢献する架け橋となることを目指します！
+                                            Lorem Ipsum is simply dummy 
+                                            text of the printing and typesetting industry. 
                                         </p>
                                     </v-col>
                                 </transition>
